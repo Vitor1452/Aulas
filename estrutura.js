@@ -35,7 +35,8 @@ const celulas = [
     mais_de_10: true,
     membros:["valdecir","cleusa"],
     {
-        
+        chefe: "roberto",
+        funcionario: "marcos"
     }
 
     },
@@ -44,6 +45,11 @@ const celulas = [
     numero_celula: 11,
     mais_de_10: false,
     membros:["marcos","romario"]
+    {
+        chefe: "roberto",
+        funcionario: "marcos"
+    }
+
 
     },
     {
@@ -51,6 +57,11 @@ const celulas = [
     numero_celula: 11,
     mais_de_10: false,
     membros:["zanaraio","claudio"]
+    {
+        chefe: "roberto",
+        funcionario: "marcos"
+    }
+
 
     
     }
